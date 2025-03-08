@@ -1,0 +1,4 @@
+/* 既存のスタイルを見つけて、以下のように変更 */
+.color-slot.ready {
+  border: 2px dashed blue; /* 波線に変更 */
+}
